@@ -1,0 +1,3 @@
+System error occurred at module X. Problem detected.
+Critical failure: Disk not responding.
+Minor issue: Cache missed expected key.
