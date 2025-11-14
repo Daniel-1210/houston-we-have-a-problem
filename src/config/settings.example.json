@@ -1,0 +1,5 @@
+{
+    "inputFile": "data/inputs.sample.txt",
+    "outputFile": "data/sample.json",
+    "defaultSourceUrl": "https://example.com/issues"
+}
